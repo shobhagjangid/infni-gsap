@@ -301,6 +301,7 @@ body {
   right: 0;
   bottom: 0;
   height: 100%;
+  width: 100%;
 }
 .wireless-video .wire-box {
   max-width: 500px;
